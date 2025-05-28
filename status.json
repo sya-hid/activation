@@ -1,5 +1,5 @@
 {
-  "kas_kontrakan": { "active": true },
+  "kas_kontrakan": { "active": false },
   "book_futsal": { "active": false },
   "app3": { "active": true }
 }
